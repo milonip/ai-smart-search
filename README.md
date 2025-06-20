@@ -77,6 +77,6 @@ The app will open in your default browser at [http://localhost:3000](http://loca
 - The app uses React functional components and hooks.
 - Styling is done with basic CSS in `src/App.css`.
 
-## License
+## Author
 
-This project is open source and free to use.
+Miloni Patel @milonip
