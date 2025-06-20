@@ -16,6 +16,13 @@ This is a React application that displays a static list of 10 sample products an
 - Filters and displays matching products in styled cards.
 - Responsive and clean UI with basic CSS styling.
 
+## Visuals
+
+<img width="1468" alt="Screenshot 2025-06-20 at 10 12 09 PM" src="https://github.com/user-attachments/assets/efd42d1c-f20d-421a-b8e5-d45d6d92fddc" />
+<img width="1468" alt="Screenshot 2025-06-20 at 10 12 00 PM" src="https://github.com/user-attachments/assets/5aa846a2-bb50-4eb7-be84-4acc6e044e99" />
+<img width="1468" alt="Screenshot 2025-06-20 at 10 12 28 PM" src="https://github.com/user-attachments/assets/ea0f4f11-f4e7-49d1-87a0-05a99e513a1c" />
+
+
 ## Project Structure
 
 ```
